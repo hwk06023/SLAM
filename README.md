@@ -10,7 +10,12 @@ Lidar 센서를 사용하여 촬영하면 얻을 수 있는 Point Cloud data를 
 
 Point Cloud를 정합하여 순차적으로 이동거리를 예측하여 위치를 추정합니다. <br/>
 
-Point Cloud 정합에는 ICP(Iterative Closest Point), NDT(Normal Distributions Transform)와 같은 정합 알고리즘이 사용됩니다. 
+Point Cloud 정합에는 ICP(Iterative Closest Point), NDT(Normal Distributions Transform)와 같은 정합 알고리즘이 사용됩니다. <br/>
+
+<img width="80%" src="./img/Rviz.gif"/>
+
+
+
 
 <br/><br/>
 
